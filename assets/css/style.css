@@ -1,0 +1,17 @@
+.headlineDecoration{
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+
+.likeListDecoration{
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+}
+
+.newHeadlineDecoration{
+    font-size: 4rem;
+    font-family: monospace;
+    color: tomato;
+}
